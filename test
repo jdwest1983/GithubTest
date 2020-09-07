@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" href="style.css">
 	<title>
 		This will be my web page
 	</title>
